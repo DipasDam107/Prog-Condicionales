@@ -1,0 +1,13 @@
+Ejer 3)
+
+1 (i+k <= j-k*3 && k>=2): Falso
+2 (i==3 || j <=2 && k>0): Verdadero
+3 ((i==3 || j <= 2 ) && k > 0): Falso
+4 (anno % 400 == 0): Falso
+5 (5-1 >= 4 && !(0.5 == 1/2)): Verdadero
+
+Ejer 7)
+  Ordena los numeros de mayor a menor
+  Son incorrectos los ultimos if else, tienen el texto mal
+  No necesitan mas llaves
+  Se podria hacer mas facil con arrays
